@@ -15,6 +15,6 @@
 	],
 	"theme_color": "#ffe501",
 	"background_color": "#ffe501",
-	"start_url": "/",
+	"start_url": "/cast",
 	"display": "standalone"
 }
